@@ -2,7 +2,9 @@
 
 ![wi-demo](https://github.com/user-attachments/assets/5ae85a96-75a1-45aa-bd13-351bcdac6bcb)
 
-This demo application showcases the integration of [@coinbase/onchainkit](https://docs.onchainkit.com) wallet components in a Next.js application. It demonstrates how to implement wallet connectivity, user identity display, and wallet-related UI components using OnchainKit's pre-built components.
+This demo application showcases the integration of [@coinbase/onchainkit](https://onchainkit.xyz) Wallet Island component in a Next.js application. 
+
+It demonstrates how to implement wallet connectivity, user identity display, and wallet-related UI components using OnchainKit's pre-built components.
 
 ## Features
 
@@ -89,7 +91,7 @@ export function WalletDemo() {
 
 ## Learn More
 
-- [OnchainKit Documentation](https://docs.onchainkit.com) - Learn about OnchainKit features and components
+- [OnchainKit Documentation](https://onchainkit.xyz) - Learn about OnchainKit features and components
 - [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API
 - [wagmi Documentation](https://wagmi.sh/) - Learn about wagmi hooks and utilities
 - [viem Documentation](https://viem.sh/) - Learn about viem's Ethereum interface
