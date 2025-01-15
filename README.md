@@ -25,7 +25,6 @@ It demonstrates how to implement wallet connectivity, user identity display, and
 
 - [Next.js 14](https://nextjs.org)
 - [@coinbase/onchainkit](https://docs.onchainkit.com) - Base UI components
-- [wagmi](https://wagmi.sh/) - React Hooks for Ethereum
 - [viem](https://viem.sh/) - TypeScript Interface for Ethereum
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
