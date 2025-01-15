@@ -54,7 +54,7 @@ export default function App() {
                         </span>
                         <span className="text-2xl font-bold mt-1">
                             <a
-                                href="https://onchainkit.xyz/wallet/wallet-advanced#quick-start"
+                                href="https://onchainkit.xyz/wallet/wallet-island#quick-start"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="hover:text-gray-400 dark:hover:text-gray-300"
@@ -69,7 +69,7 @@ export default function App() {
                         </span>
                         <span className="text-2xl font-bold mt-1">
                             <a
-                                href="https://onchainkit.xyz/wallet/wallet-advanced#quick-start"
+                                href="https://onchainkit.xyz/wallet/wallet-island#quick-start"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="hover:text-gray-400 dark:hover:text-gray-300"
