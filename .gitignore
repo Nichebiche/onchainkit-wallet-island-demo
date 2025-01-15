@@ -68,3 +68,4 @@ storybook-static/
 
 .next
 .env*
+.vercel
