@@ -7,19 +7,12 @@ This demo application showcases the integration of [@coinbase/onchainkit](https:
 It demonstrates how to implement wallet connectivity, user identity display, and wallet-related UI components using OnchainKit's pre-built components.
 
 ## Features
-
-- **Wallet Connection**: Implements a Connect Wallet button with avatar and name display
-- **Identity Components**: Demonstrates the use of OnchainKit's identity components:
-  - Avatar display
-  - Name resolution
-  - ETH address display
-  - ETH balance display
-  - Social links integration
-- **Wallet Dropdown**: Shows implementation of a full-featured wallet dropdown menu with:
-  - User identity information
-  - Wallet link
-  - Fund management
-  - Disconnect functionality
+🎨 Elegant, minimalist design with prebuilt themes
+🔗 Seamless wallet integration and wallet balance
+🌓 Dark mode optimized
+⚡️ Built with Next.js for optimal performance
+📱 Fully responsive design
+🎭 Beautiful animations and transitions
 
 ## Tech Stack
 
