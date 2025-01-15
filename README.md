@@ -1,5 +1,7 @@
 # OnchainKit Wallet Island Demo
 
+![wi-demo](https://github.com/user-attachments/assets/5ae85a96-75a1-45aa-bd13-351bcdac6bcb)
+
 This demo application showcases the integration of [@coinbase/onchainkit](https://docs.onchainkit.com) wallet components in a Next.js application. It demonstrates how to implement wallet connectivity, user identity display, and wallet-related UI components using OnchainKit's pre-built components.
 
 ## Features
