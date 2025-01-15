@@ -7,12 +7,12 @@ This demo application showcases the integration of [@coinbase/onchainkit](https:
 It demonstrates how to implement wallet connectivity, user identity display, and wallet-related UI components using OnchainKit's pre-built components.
 
 ## Features
-🎨 Elegant, minimalist design with prebuilt themes
-🔗 Seamless wallet integration and wallet balance
-🌓 Dark mode optimized
-⚡️ Built with Next.js for optimal performance
-📱 Fully responsive design
-🎭 Beautiful animations and transitions
+- 🎨 Elegant, minimalist design with prebuilt themes
+- 🔗 Seamless wallet integration and wallet balance
+- 🌓 Dark mode optimized
+- ⚡️ Built with Next.js for optimal performance
+- 📱 Fully responsive design
+- 🎭 Beautiful animations and transitions
 
 ## Tech Stack
 
